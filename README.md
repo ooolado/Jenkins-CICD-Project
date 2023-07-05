@@ -109,7 +109,7 @@
   - Clone the following repository: https://github.com/avinashmamidi/realworld-cicd-pipeline-project.git
   - Change directory to "realworld-cicd-pipeline-project"
   - Run: cd realworld-cicd-pipeline-project
-  - Run: ./scripts/install-prometheus.sh
+  - Run: ./install-prometheus.sh
   - Confirm the status shows "Active (running)"
   - Exit
 
